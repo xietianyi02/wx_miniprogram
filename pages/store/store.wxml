@@ -1,0 +1,7 @@
+<view wx:for="{{arrayofs}}">
+  <view>商品{{item.id}} 简介{{item.introduction}}价格为{{item.price}} 当前数量为{{item.num}} 金额为{{item.sum}}</view>
+  <view bindtap="add" data-id="{{index}}">+</view>
+  <view bindtap="sub" data-id="{{index}}">-</view>
+</view>
+<view>当前总金额为{{sumofbuy}}</view>
+<view>结算</view>

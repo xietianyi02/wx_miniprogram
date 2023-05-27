@@ -1,0 +1,6 @@
+<button class="phone" bindtap="phone">点击拨打客服电话：15005584595</button>
+<view class="weixin">
+<image src="../../img/1.jpg" show-menu-by-longpress="true"></image>
+<view>长按识别添加专属客服微信</view>
+</view>
+<button class="wx_developer" bindtap="wx_developer">小程序有问题请点击拨打开发者电话：15005584595</button>

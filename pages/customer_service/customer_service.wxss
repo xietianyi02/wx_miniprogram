@@ -1,0 +1,11 @@
+.weixin{
+  text-align: center
+}
+.phone{
+  text-align: center;
+  padding: 0px
+}
+.wx_developer{
+  text-align: center;
+  padding: 0px;
+}
